@@ -33,6 +33,9 @@ If the context of previous messages would be helpful for answering the developer
 Generate markdown and include relevant hyperlinks to the documentation.
 Do not specify the email subject, only the email body.
 Do not include any other text in your response.
+
+Analyze the documentation and generate a comprehensive response to the developer's query in one turn.
+Do not plan to respond to the developer's query in multiple turns. Provide a single comprehensive response.
 """,
     )
 
